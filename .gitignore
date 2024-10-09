@@ -33,3 +33,10 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# yarn
+.yarn
+
+# build
+android/app/build
+modules/**/android/build
